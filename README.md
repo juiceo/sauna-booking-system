@@ -57,6 +57,5 @@ That's it! Now, just push a new commit into `master` and you'll find your React 
 
 There's two variants of this template, living in the following branches:
 
-- `master`: A barebones template with just a fresh create-react-app along with automatic deployments to Cloudflare Workers
-- `boilerplate`: A more boilerplate-style template which includes a bit more than just a fresh CRA (`react-router`, etc.)
-
+-   `master`: A barebones template with just a fresh create-react-app along with automatic deployments to Cloudflare Workers
+-   `boilerplate`: A more boilerplate-style template which includes a bit more than just a fresh CRA (`react-router`, etc.)
