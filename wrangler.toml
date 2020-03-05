@@ -1,0 +1,9 @@
+name = "cloudflare-worker-cra"
+type = "webpack"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./build"
+entry-point = "workers-site"
